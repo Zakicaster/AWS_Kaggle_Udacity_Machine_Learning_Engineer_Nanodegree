@@ -8,3 +8,10 @@ This contains all the projects for my Udacity Nanodegree
 ###### 2. Plaigiarism Detection
 
 ###### 3. Final Project (Starbucks)
+
+
+
+
+
+
+Licenses and materials are copyright of Udacity. Courtesy Udacity.
