@@ -27,6 +27,9 @@ The objective of the venture is to manufacture an AI model that can be utilized 
 
 ## 4. Files
 The data used in the project is in the files portfolio.json, profile.json and transcript.json. Starbucks .ipynb File.
+portfolio.json - containing offer ids and meta data about each offer (duration, type, etc.)
+profile.json - demographic data for each customer
+transcript.json - records for transactions, offers received, offers viewed, and offers completed
 
 ## 5. Results and Discussion
 
