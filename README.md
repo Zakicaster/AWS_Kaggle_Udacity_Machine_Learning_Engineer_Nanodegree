@@ -7,4 +7,4 @@ This contains all the projects for my Udacity Nanodegree
 
 ###### 2. Plaigiarism Detection
 
-###### 3. Final Project
+###### 3. Final Project (Starbucks)
