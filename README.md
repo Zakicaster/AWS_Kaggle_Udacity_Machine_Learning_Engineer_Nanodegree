@@ -55,7 +55,7 @@ This repository contains project files and lecture notes for Udacity's Machine L
 
 **Topics covered in this section:**
 
-- **Neuronal networks**  
+- **Neural networks**  
   Perceptron trick, perceptron algorithm, sigmoid activation, maximum likelihood, cross entropy, logistic regression, perceptron and gradient descent
 - **Deep neural networks**    
   Regularization, dropout, vanishing gradients and activation function, momentum, keras optimisers
